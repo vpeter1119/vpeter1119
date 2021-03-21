@@ -4,6 +4,7 @@ Ever since I switched careers from public administration to the telecommunicatio
 # ✔️ What I learned so far
 - JavaScript, ES6, Typescript
 - Frontend JS frameworks (Angular)
+- Creating responsive layout with [Angular flex-layout](https://github.com/angular/flex-layout)
 - CSS libraries (Angular Material, Materialize)
 - Backend JS frameworks (Node.js and Express)
 - NoSQL database (MongoDB)
@@ -14,8 +15,8 @@ Ever since I switched careers from public administration to the telecommunicatio
 - Documentation (General principles as well as various tools for editing xml-based documents)
 
 # 📘 What I'm currently practicing / learning
-- React
-- Testing with jest
+- Swagger (OpenAPI)
+- Unit testing with Jest
 - CD/CI
 - Creating 3D models and materials with Blender
 
