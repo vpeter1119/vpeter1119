@@ -21,10 +21,11 @@ Ever since I switched careers from public administration to the telecommunicatio
 - Creating 3D models and materials with Blender
 
 # ⭐ My active projects
+- A Node.js server with a scheduled cron job that fetches data from a SOAP API and sends notifications to MS Teams if there is anything new.
 - A CRUD application that helps me with the monthly report of meter and calculation of overhead expenses
   - [Frontend (Angular)](https://github.com/vpeter1119/biborrezsi-server)
   - [Server (Node.js)](https://github.com/vpeter1119/biborrezsi-frontend)
-- [Interactive fantasy maps (Angular and Leaflet)](https://github.com/vpeter1119/fantasy-maps-angular)
+- [Interactive fantasy maps (Angular and Leaflet)](https://github.com/vpeter1119/fantasy-maps-angular)- 
 - A PC game developed in Unity
 
 # 🌱 What lies ahead
