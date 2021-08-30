@@ -15,6 +15,7 @@ Ever since I switched careers from public administration to the telecommunicatio
 - Documentation (General principles as well as various tools for editing xml-based documents)
 
 # 📘 What I'm currently practicing / learning
+- AngularJS
 - Swagger (OpenAPI)
 - Unit testing with Jest
 - CD/CI
@@ -25,7 +26,7 @@ Ever since I switched careers from public administration to the telecommunicatio
 - A CRUD application that helps me with the monthly report of meter and calculation of overhead expenses
   - [Frontend (Angular)](https://github.com/vpeter1119/biborrezsi-server)
   - [Server (Node.js)](https://github.com/vpeter1119/biborrezsi-frontend)
-- [Interactive fantasy maps (Angular and Leaflet)](https://github.com/vpeter1119/fantasy-maps-angular)- 
+- [Interactive fantasy maps (Angular and Leaflet)](https://github.com/vpeter1119/fantasy-maps-angular)
 - A PC game developed in Unity
 
 # 🌱 What lies ahead
